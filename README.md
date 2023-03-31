@@ -25,4 +25,4 @@ You will need to send appropriate throttle and steering commands to the car, wit
 
 ![](https://github.com/Ali-RT/portfolio/blob//main/Project_0%20_Joy%20_Ride/ParallelParkingAnimation.gif)
 
-![](https://github.com/Ali-RT/portfolio/blob/main/Project_0%20_Joy%20_Ride/Unity.png)
+![](https://github.com/Ali-RT/portfolio/blob/main/Project_0%20_Joy%20_Ride/ParallelParkingUnity.png)
