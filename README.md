@@ -9,8 +9,8 @@ These projects have allowed me to develop practical skills in areas such as comp
 
 
 ### Table of Contents 
-1. [project 1: Joy_Ride](#project-1)
-2. [Project 2: 2D_Histogram_Filter_in _Python](#project-1)
+1. [Project 1: Joy_Ride](#project-1)
+2. [Project 2: 2D_Histogram_Filter_in_Python](#project-2)
 3. [Project 3: Implement_a_Matrix_Class](#project2)
 4. [Project 4: Translate_Python_to_C++](#project3)
 5. [Project 5: Optimize_Histogram_Filter](#project4)
@@ -26,3 +26,9 @@ You will need to send appropriate throttle and steering commands to the car, wit
 ![](https://github.com/Ali-RT/portfolio/blob//main/Project_1_Joy_Ride/ParallelParkingAnimation.gif)
 
 ![](https://github.com/Ali-RT/portfolio/blob/main/Project_1_Joy_Ride/ParallelParkingUnity.png)
+
+
+
+
+#### <a name="project-2"></a>Project_2_2D_Histogram_Filter_in_Python
+In this project, I have had the opportunity to apply my object-oriented programming and matrix mathematics expertise by completing the methods in a partially implemented Matrix class. 
