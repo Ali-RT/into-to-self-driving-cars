@@ -23,6 +23,6 @@ These projects have allowed me to develop practical skills in areas such as comp
 This task requires you to begin writing code that will control a simulated vehicle. 
 You will need to send appropriate throttle and steering commands to the car, with the aim of helping it navigate around a predefined test track. 
 
-![](https://github.com/Ali-RT/portfolio/blob//main/Project_1%20_Joy%20_Ride/ParallelParkingAnimation.gif)
+![](https://github.com/Ali-RT/portfolio/blob//main/Project_1_Joy_Ride/ParallelParkingAnimation.gif)
 
-![](https://github.com/Ali-RT/portfolio/blob/main/Project_1%20_Joy%20_Ride/ParallelParkingUnity.png)
+![](https://github.com/Ali-RT/portfolio/blob/main/Project_1_Joy_Ride/ParallelParkingUnity.png)
