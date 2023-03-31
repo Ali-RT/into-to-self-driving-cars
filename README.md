@@ -9,20 +9,20 @@ These projects have allowed me to develop practical skills in areas such as comp
 
 
 ### Table of Contents 
-1. [project_0: Joy_Ride](#project-0)
-2. [Project_1: 2D_Histogram_Filter_in _Python](#project-1)
-3. [Project_2: Implement_a_Matrix_Class](#project2)
-4. [Project_3: Translate_Python_to_C++](#project3)
-5. [Project_4: Optimize_Histogram_Filter](#project4)
-6. [Project_5: Planning_an_Optimal_Path](#project5)
-7. [Project_6: Trajectory_Visualizer](#project6)
-8. [Project_7: Image_Classifier_from_Scratch](#project7)
+1. [project 1: Joy_Ride](#project-0)
+2. [Project 2: 2D_Histogram_Filter_in _Python](#project-1)
+3. [Project 3: Implement_a_Matrix_Class](#project2)
+4. [Project 4: Translate_Python_to_C++](#project3)
+5. [Project 5: Optimize_Histogram_Filter](#project4)
+6. [Project 6: Planning_an_Optimal_Path](#project5)
+7. [Project 7: Trajectory_Visualizer](#project6)
+8. [Project 8: Image_Classifier_from_Scratch](#project7)
 
 
 #### **Joy Ride**
 This task requires you to begin writing code that will control a simulated vehicle. 
 You will need to send appropriate throttle and steering commands to the car, with the aim of helping it navigate around a predefined test track. 
 
-![](https://github.com/Ali-RT/portfolio/blob//main/Project_0%20_Joy%20_Ride/ParallelParkingAnimation.gif)
+![](https://github.com/Ali-RT/portfolio/blob//main/Project_1%20_Joy%20_Ride/ParallelParkingAnimation.gif)
 
-![](https://github.com/Ali-RT/portfolio/blob/main/Project_0%20_Joy%20_Ride/ParallelParkingUnity.png)
+![](https://github.com/Ali-RT/portfolio/blob/main/Project_1%20_Joy%20_Ride/ParallelParkingUnity.png)
