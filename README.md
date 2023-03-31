@@ -9,7 +9,7 @@ These projects have allowed me to develop practical skills in areas such as comp
 
 
 ### Table of Contents 
-1. [project 1: Joy_Ride](#project-0)
+1. [project 1: Joy_Ride](#project-1)
 2. [Project 2: 2D_Histogram_Filter_in _Python](#project-1)
 3. [Project 3: Implement_a_Matrix_Class](#project2)
 4. [Project 4: Translate_Python_to_C++](#project3)
@@ -19,7 +19,7 @@ These projects have allowed me to develop practical skills in areas such as comp
 8. [Project 8: Image_Classifier_from_Scratch](#project7)
 
 
-#### **Joy Ride**
+#### <a name="project-1"></a>Project_1_Joy Ride
 This task requires you to begin writing code that will control a simulated vehicle. 
 You will need to send appropriate throttle and steering commands to the car, with the aim of helping it navigate around a predefined test track. 
 
