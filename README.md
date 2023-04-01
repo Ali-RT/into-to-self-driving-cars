@@ -11,12 +11,12 @@ These projects have allowed me to develop practical skills in areas such as comp
 ### Table of Contents 
 1. [Project 1: Joy_Ride](#project-1)
 2. [Project 2: 2D_Histogram_Filter_in_Python](#project-2)
-3. [Project 3: Implement_a_Matrix_Class](#project2)
-4. [Project 4: Translate_Python_to_C++](#project3)
-5. [Project 5: Optimize_Histogram_Filter](#project4)
-6. [Project 6: Planning_an_Optimal_Path](#project5)
-7. [Project 7: Trajectory_Visualizer](#project6)
-8. [Project 8: Image_Classifier_from_Scratch](#project7)
+3. [Project 3: Implement_Matrix_Class](#project3)
+4. [Project 4: Translate_Python_to_C++](#project4)
+5. [Project 5: Optimize_Histogram_Filter](#project5)
+6. [Project 6: Planning_an_Optimal_Path](#project6)
+7. [Project 7: Trajectory_Visualizer](#project7)
+8. [Project 8: Image_Classifier_from_Scratch](#project8)
 
 
 #### <a name="project-1"></a>Project_1_Joy Ride
@@ -28,7 +28,9 @@ You will need to send appropriate throttle and steering commands to the car, wit
 ![](https://github.com/Ali-RT/portfolio/blob/main/Project_1_Joy_Ride/ParallelParkingUnity.png)
 
 
-
-
 #### <a name="project-2"></a>Project_2_2D_Histogram_Filter_in_Python
+For this initial project, I wrote the sense and move functions for a 2-dimensional histogram filter in Python. The sense function allows the robot to use sensor readings to update the probability distribution of its location, while the move function will enable the robot to update its position based on a predefined set of movement instructions.
+
+
+#### <a name="project-3"></a>Project_3_Implement_Matrix_Class
 In this project, I have had the opportunity to apply my object-oriented programming and matrix mathematics expertise by completing the methods in a partially implemented Matrix class. 
