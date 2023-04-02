@@ -11,12 +11,12 @@ These projects have allowed me to develop practical skills in areas such as comp
 ### Table of Contents 
 1. [Project 1: Joy_Ride](#project-1)
 2. [Project 2: 2D_Histogram_Filter_in_Python](#project-2)
-3. [Project 3: Implement_Matrix_Class](#project3)
-4. [Project 4: Translate_Python_Cpp](#project4)
-5. [Project 5: Optimize_Histogram_Filter](#project5)
-6. [Project 6: Planning_an_Optimal_Path](#project6)
-7. [Project 7: Trajectory_Visualizer](#project7)
-8. [Project 8: Image_Classifier_from_Scratch](#project8)
+3. [Project 3: Implement_Matrix_Class](#project-3)
+4. [Project 4: Translate_Python_Cpp](#project-4)
+5. [Project 5: Optimize_Histogram_Filter](#project-5)
+6. [Project 6: Planning_an_Optimal_Path](#project-6)
+7. [Project 7: Trajectory_Visualizer](#project-7)
+8. [Project 8: Image_Classifier_from_Scratch](#project-8)
 
 
 #### <a name="project-1"></a>Project_1_Joy Ride
@@ -41,3 +41,6 @@ In this project, I implemented the core functionality of the Histogram Filter al
 
 #### <a name="project-5"></a>Project_5_Optimize_Histogram_Filter
 Efficiency is a critical consideration in the development of self-driving cars, as these vehicles must operate without wasting any resources, including memory. In this project, identified inefficiencies in code and implemented more efficient algorithms and data structures to improve performance.
+
+#### <a name="project-6"></a>Project_6_Implement_Route_Planner
+I had the opportunity to use my expertise in data structures, particularly graph data structures, and search algorithms to design an algorithm that can identify the fastest route between two points on a map. 
