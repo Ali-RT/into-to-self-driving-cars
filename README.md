@@ -14,8 +14,8 @@ These projects have allowed me to develop practical skills in areas such as comp
 3. [Project 3: Implement_Matrix_Class](#project-3)
 4. [Project 4: Translate_Python_Cpp](#project-4)
 5. [Project 5: Optimize_Histogram_Filter](#project-5)
-6. [Project 6: Planning_an_Optimal_Path](#project-6)
-7. [Project 7: Trajectory_Visualizer](#project-7)
+6. [Project 6: Implement_Route_Planner](#project-6)
+7. [Project 7: Reconstructing_Trajectories_from_Sensor_Data](#project-7)
 8. [Project 8: Image_Classifier_from_Scratch](#project-8)
 
 
@@ -44,3 +44,10 @@ Efficiency is a critical consideration in the development of self-driving cars, 
 
 #### <a name="project-6"></a>Project_6_Implement_Route_Planner
 I had the opportunity to use my expertise in data structures, particularly graph data structures, and search algorithms to design an algorithm that can identify the fastest route between two points on a map. 
+
+
+#### <a name="project-7"></a>Project_7_Reconstructing_Trajectories_from_Sensor_Data
+I used raw data from a vehicle's accelerometer, odometer, and rate gyros to reconstruct its X and Y trajectory. I did processing the data from these sensors, including acceleration, displacement, and angular rotation, to determine the vehicle's position and movement in two dimensions. 
+
+#### <a name="project-8"></a>Project_8_Traffic_Light_Classifier
+The goal of this project is to build a classification pipeline that can accurately label images of traffic lights as either red, green, or yellow. I developed an algorithm that can extract relevant features from the input image, and use those features to classify the image into one of the three categories. The pipeline is able to handle various lighting conditions, image resolutions, and other factors that can affect the accuracy of the classification. 
