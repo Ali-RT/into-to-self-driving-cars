@@ -12,7 +12,7 @@ These projects have allowed me to develop practical skills in areas such as comp
 1. [Project 1: Joy_Ride](#project-1)
 2. [Project 2: 2D_Histogram_Filter_in_Python](#project-2)
 3. [Project 3: Implement_Matrix_Class](#project3)
-4. [Project 4: Translate_Python_to_C++](#project4)
+4. [Project 4: Translate_Python_Cpp](#project4)
 5. [Project 5: Optimize_Histogram_Filter](#project5)
 6. [Project 6: Planning_an_Optimal_Path](#project6)
 7. [Project 7: Trajectory_Visualizer](#project7)
@@ -34,3 +34,10 @@ For this initial project, I wrote the sense and move functions for a 2-dimension
 
 #### <a name="project-3"></a>Project_3_Implement_Matrix_Class
 In this project, I have had the opportunity to apply my object-oriented programming and matrix mathematics expertise by completing the methods in a partially implemented Matrix class. 
+
+#### <a name="project-4"></a>Project_4_Translate_Python_Cpp
+In this project, I implemented the core functionality of the Histogram Filter algorithm in C++, including the sense, move, and initialization functions.
+
+
+#### <a name="project-5"></a>Project_5_Optimize_Histogram_Filter
+Efficiency is a critical consideration in the development of self-driving cars, as these vehicles must operate without wasting any resources, including memory. In this project, identified inefficiencies in code and implemented more efficient algorithms and data structures to improve performance.
