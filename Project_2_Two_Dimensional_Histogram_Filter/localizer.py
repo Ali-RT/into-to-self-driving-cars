@@ -1,6 +1,8 @@
 # import pdb
 from helpers import normalize, blur
 import numpy as np
+
+
 def initialize_beliefs(grid):
     height = len(grid)
     width = len(grid[0])
@@ -13,6 +15,7 @@ def initialize_beliefs(grid):
             row.append(belief_per_cell)
         beliefs.append(row)
     return beliefs
+
 
 def sense(color, grid, beliefs, p_hit, p_miss):
     new_beliefs = []
@@ -34,19 +37,16 @@ def sense(color, grid, beliefs, p_hit, p_miss):
                 row.append(belief * p_miss)
         new_beliefs.append(row)
 
-       
-   
     total = np.sum(new_beliefs)
- 
-    
-    for j in range(0,height):
+
+    for j in range(0, height):
         row = []
-        for i in range(0,width):
-            row.append(new_beliefs[j][i]/total)
+        for i in range(0, width):
+            row.append(new_beliefs[j][i] / total)
         norm_new_beliefs.append(row)
 
-    
     return norm_new_beliefs
+
 
 def move(dy, dx, beliefs, blurring):
     height = len(beliefs)
@@ -54,8 +54,8 @@ def move(dy, dx, beliefs, blurring):
     new_G = [[0.0 for i in range(width)] for j in range(height)]
     for i, row in enumerate(beliefs):
         for j, cell in enumerate(row):
-            new_i = (i + dy ) % height
-            new_j = (j + dx ) % width
-#             pdb.set_trace()
+            new_i = (i + dy) % height
+            new_j = (j + dx) % width
+            #             pdb.set_trace()
             new_G[int(new_i)][int(new_j)] = cell
     return blur(new_G, blurring)
